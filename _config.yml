@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jasonwhat.github.io
+title: Hello Wojo
+email: jason.woj@gmail.com
+author: Jason Wojciechowski
+description: Words and ideas from Jason Wojciechowski, Creative Director at Corelab
+paginate: 4
+google_analytics: 
