@@ -1,0 +1,33 @@
+---
+published: true
+title: The greatest country?
+layout: post
+permalink: greatest-country
+---
+[![greatest-country-newsroom.gif](https://d23f6h5jpj26xu.cloudfront.net/ny4wzg7btabcya_small.gif)](http://img.svbtle.com/ny4wzg7btabcya.gif)
+
+Here's something not provocative: my mom is great.
+
+##My Mom
+She spent 30 years serving the crime victims of Oregon. In many ways she created her position at the Oregon Board of Parole, recognizing that victims of crimes and their families were woefully uninformed about the parole process. They needed an advocate. So she became that advocate.
+
+The state realized how ridiculous her pay grade was compared to the workload and expertise needed to do it well. They were forced to reclassify the position and offer substantially more money to find suitable candidates. 
+
+##Retirement Gift...Thanks
+My mom retired early at 60, mainly due to a recent diagnoses of breast cancer. She caught it early. The doctors are great, she is strong and upbeat; she will recover after a strong course of chemo and other treatments.
+
+##Uncle Phil
+Does she have such great doctors and an amazing facility to treat cancer because our country is the best when it comes to oncological medicine? No. She's lucky to live in the state where Phil Knight made his fortune with Nike and has access to the [Knight Cancer Institute](http://www.ohsu.edu/xd/health/services/cancer/).
+
+##USA!
+
+>Health spending accounted for 16.9% of GDP in the United States in 2012 - the highest share among OECD countries and more than 7½ percentage points above the OECD average of 9.3%. In contrast to most OECD countries, health spending in the United States is split evenly between public and private sources. In 2012, 48% of health spending in the United States was publicly financed, well below the average of 72% in OECD countries. 
+
+While most [OECD countries account for 72% of  healthcare spending](http://www.oecd.org/unitedstates/Briefing-Note-UNITED-STATES-2014.pdf) in their state, the U.S. publicly contributes 48%, with private money picking up the rest. That is basically us, and for the lucky ones -- big foundations like Knight.  The greatest country?
+- [OECD Health Statistics 2014, How Does the US Compare? (PDF)](http://www.oecd.org/unitedstates/Briefing-Note-UNITED-STATES-2014.pdf)
+
+My mom has spent hour upon hour with retirement advisors and financial planners trying to figure out how to retire and pay for healthcare. A career-long state employee means her retirement is tied up on Oregon Public Employees Retirement System. Retirement does not include healthcare.
+
+So, she debates between a few options that will cost between $700-1400 monthly. USA! USA!
+
+A 60 year old public employee with cancer has to pay more than most pay for rent or a mortgage to have healthcare, in the greatest country in the world.
