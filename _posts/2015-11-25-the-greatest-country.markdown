@@ -14,11 +14,13 @@ She spent 30 years serving the crime victims of Oregon. In many ways she created
 The state realized how ridiculous her pay grade was compared to the workload and expertise needed to do it well. They were forced to reclassify the position and offer substantially more money to find suitable candidates. 
 
 <div id="panel1">
+
 ## Retirement Gift...Thanks
 My mom retired early at 60, mainly due to a recent diagnoses of breast cancer. She caught it early. The doctors are great, she is strong and upbeat; she will recover after a strong course of chemo and other treatments.
 
 ##Uncle Phil
 Does she have such great doctors and an amazing facility to treat cancer because our country is the best when it comes to oncological medicine? No. She's lucky to live in the state where Phil Knight made his fortune with Nike and has access to the [Knight Cancer Institute](http://www.ohsu.edu/xd/health/services/cancer/).
+
 </div>
 
 ##USA!
