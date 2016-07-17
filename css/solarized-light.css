@@ -155,5 +155,5 @@ green     #859900  operators, other keywords
 .highlight .il,
 .gist-syntax .highlight .il { color: #2aa198 } /* Literal.Number.Integer.Long */
 
-.panel1 {background-color: blue;
+#panel1 {background-color: blue;
 }
