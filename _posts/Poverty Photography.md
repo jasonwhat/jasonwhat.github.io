@@ -1,9 +1,9 @@
 ---
-
-
+published: true
+title: The long-term effect of poverty photography
+layout: post
+permalink: poverty-photos
 ---
-
-<h1 id="the-long-term-effect-of-poverty-photography">The long-term effect of poverty photography</h1>
 <p>We’ve been conducting a fair amount of research on imagery, and especially the photos that get shared most on social media to shape the views of an issue as part of Reframe. In that process, I came across some thoughtful debate dating back to the Horn of Africa famine in 2011. Smart people and talented photographers were reporting the crisis, and wrestling with the best way to have a positive impact.</p>
 <p>The debate often comes down to immediacy: something horrible is happening and how can we move people to care and then act. The NGO community has in principle moved away from <em>poverty porn</em> photos over the past two decades, but recent research and experience of those same organizations show that the photos of suffering work. At least that is true if donations to charities is how you measure images’ impact.</p>
 <p>Back in 2011,<a href="https://www.david-campbell.org/2011/07/16/thinking-images-v-20-famine-iconography-failure/">David Campbell</a> was arguing that photos of starving children fail to capture the causes of famine.  The crime is that the international community has enough experience with such crisis to respond before food insecurity becomes full blown famine, but the imagery that leads to action only occurs after the crisis.</p>
