@@ -8,5 +8,5 @@ author: Jason Wojciechowski
 plugins:
   - jekyll-seo-tag
 description: Words and ideas from Jason Wojciechowski, Creative Director at Corelab
-paginate: 4
+paginate: 8
 google_analytics: 
