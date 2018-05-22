@@ -8,7 +8,8 @@ permalink: greatest-country
 
 Here's something not provocative: my mom is great.
 
-##My Mom
+## My Mom
+
 She spent 30 years serving the crime victims of Oregon. In many ways she created her position at the Oregon Board of Parole, recognizing that victims of crimes and their families were woefully uninformed about the parole process. They needed an advocate. So she became that advocate.
 
 The state realized how ridiculous her pay grade was compared to the workload and expertise needed to do it well. They were forced to reclassify the position and offer substantially more money to find suitable candidates. 
@@ -16,14 +17,16 @@ The state realized how ridiculous her pay grade was compared to the workload and
 <div id="panel1">
 
 ## Retirement Gift...Thanks
+
 My mom retired early at 60, mainly due to a recent diagnoses of breast cancer. She caught it early. The doctors are great, she is strong and upbeat; she will recover after a strong course of chemo and other treatments.
 
-##Uncle Phil
+## Uncle Phil
+
 Does she have such great doctors and an amazing facility to treat cancer because our country is the best when it comes to oncological medicine? No. She's lucky to live in the state where Phil Knight made his fortune with Nike and has access to the [Knight Cancer Institute](http://www.ohsu.edu/xd/health/services/cancer/).
 
 </div>
 
-##USA!
+## USA!
 
 >Health spending accounted for 16.9% of GDP in the United States in 2012 - the highest share among OECD countries and more than 7½ percentage points above the OECD average of 9.3%. In contrast to most OECD countries, health spending in the United States is split evenly between public and private sources. In 2012, 48% of health spending in the United States was publicly financed, well below the average of 72% in OECD countries. 
 
