@@ -5,6 +5,8 @@ url: http://jasonwhat.github.io
 title: Hello Wojo
 email: jason.woj@gmail.com
 author: Jason Wojciechowski
+plugins:
+  - jekyll-seo-tag
 description: Words and ideas from Jason Wojciechowski, Creative Director at Corelab
 paginate: 4
 google_analytics: 
