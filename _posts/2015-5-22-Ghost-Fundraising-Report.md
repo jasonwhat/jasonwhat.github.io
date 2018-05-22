@@ -1,16 +1,12 @@
 ---
-
+published: true
+title: How a technology nonprofit schooled charities on transparency
+description: Ghost blogging platform is embracing radical transparency that builds loyalty and trust, even when they screw up.
+image: https://svbtleusercontent.com/d7xutp19hvl6fw.png">https://svbtleusercontent.com/d7xutp19hvl6fw.png
+layout: post
+permalink: ghost-fundraising
 
 ---
-
-<hr>
-<p>published: true<br>
-title: How a technology nonprofit schooled charities on transparency<br>
-description: Ghost blogging platform is embracing radical transparency that builds loyalty and trust, even when they screw up.<br>
-image: <a href="https://svbtleusercontent.com/d7xutp19hvl6fw.png">https://svbtleusercontent.com/d7xutp19hvl6fw.png</a><br>
-layout: post<br>
-permalink: ghost-fundraising</p>
-<hr>
 <p>Imagine this. Your nonprofit is launching your biggest ever fundraiser. You’ve made a compelling video about why people should donate. There is a clear problem and your fundraising page explains how your nonprofit is best placed with the solution. You click send on your first batch of emails wondering if anybody will respond. Will anybody donate? To your astonishment, yes, they do! Their donations meet your goal and just keep going. At the 30 day mark you’ve surpassed that goal by 800%<br>
 <a href="https://svbtleusercontent.com/d7xutp19hvl6fw.png"><img src="https://svbtleusercontent.com/d7xutp19hvl6fw_small.png" alt="Ghost-funding-report.png"></a></p>
 <h2 id="fear-of-success">Fear of Success</h2>
