@@ -1,6 +1,8 @@
 ---
 published: true
 title: The long-term effect of poverty photography
+description: Many charities are choosing the immediate fundraising benefits of disturbing famine images over imagery that changes long-held beliefs about poor countries. Are they making a mistake?
+image: https://lh3.googleusercontent.com/4QOLtff7a_4ma7cZECE7gAgWTInqPxSP_hAQc57A5YH1PNpK6aoNyPyKoxikWBXgFoU5cAqFml4
 layout: post
 permalink: poverty-photos
 ---
